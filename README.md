@@ -7,6 +7,12 @@ Generative modelling and synthesis‑planning for drug discovery.
     <img src="figures/architecture.png" alt="" width=1000/>
 </p>
 
+A selection of example protein-conditional generations and closest molecule from the dataset for that same input protein: 
+
+<p align="center">
+    <img src="figures/examples.png" alt="" width=1000/>
+</p>
+
 ---
 
 ## 1. Overview
