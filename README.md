@@ -3,6 +3,10 @@
 A protein‑conditioned fork of **SynFormer**
 Generative modelling and synthesis‑planning for drug discovery.
 
+<p align="center">
+    <img src="figures/architecture.png" alt="" width=1000/>
+</p>
+
 ---
 
 ## 1. Overview
